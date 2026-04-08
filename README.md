@@ -56,7 +56,9 @@ experiments/
 
 ## Data availability
 
-Raw news articles and macroeconomic source data are included in `data/raw/`. Model weights for CrudeBERT (`crude_bert_model.bin`) are not tracked in this repository due to file size; the config is provided in `models/`. The FinBERT model is loaded from HuggingFace (`ProsusAI/finbert`).
+Raw news articles and macroeconomic source data are included in `data/raw/`. Six large macroeconomic CSV files (272–638 MB each) are hosted in the [v1.0-data release](https://github.com/kevin880987/multimodal-fusion-oil-price-forecasting/releases/tag/v1.0-data) due to GitHub's 100 MB file size limit. Download and place them in the directories listed in `.gitignore` (`data/raw/numerical/` and `data/processed/numerical/`) before running the notebooks.
+
+Model weights for CrudeBERT (`crude_bert_model.bin`) are not tracked in this repository; the config is provided in `models/`. The FinBERT model is loaded from HuggingFace (`ProsusAI/finbert`).
 
 ## Citation
 

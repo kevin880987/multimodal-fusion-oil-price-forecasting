@@ -2,6 +2,8 @@
 
 Code and data repository for the paper submitted to *Expert Systems with Applications* (Manuscript No. ESWA-D-26-06374).
 
+[![DOI](https://img.shields.io/badge/DOI-10.2139%2Fssrn.6299391-blue)](http://dx.doi.org/10.2139/ssrn.6299391)
+
 ## Pipeline overview
 
 The pipeline proceeds in five stages, each corresponding to a numbered notebook directory:
@@ -58,4 +60,4 @@ Raw news articles and macroeconomic source data are included in `data/raw/`. Mod
 
 ## Citation
 
-> [Author names]. Temporal Multimodal Fusion with AI-Enabled Textual and Macroeconomic Features for Multi-Horizon Oil Price Prediction. *Expert Systems with Applications*, 2026.
+> Chen, Y. W., Prasadirta, W., & Lee, C. Y. Temporal Multimodal Fusion with AI-Enabled Textual and Macroeconomic Features for Multi-Horizon Oil Price Prediction. Available at SSRN 6299391. <http://dx.doi.org/10.2139/ssrn.6299391>

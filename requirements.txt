@@ -1,0 +1,12 @@
+openai>=1.0.0
+requests
+beautifulsoup4
+pandas
+numpy
+torch
+transformers
+nltk
+statsmodels
+scikit-learn
+matplotlib
+python-dotenv

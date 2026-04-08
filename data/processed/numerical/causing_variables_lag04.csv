@@ -1,0 +1,456 @@
+Causing Variable (at timesteps 4)
+Crude Oil WTI Futures Historical Data_Price
+Crude Oil WTI Futures Historical Data_Open
+Crude Oil WTI Futures Historical Data_High
+Crude Oil WTI Futures Historical Data_Low
+Crude Oil WTI Futures Historical Data_Change %
+Brent Oil Futures Historical Data_Price
+Brent Oil Futures Historical Data_Open
+Brent Oil Futures Historical Data_High
+Brent Oil Futures Historical Data_Low
+Brent Oil Futures Historical Data_Change %
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_Price
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_Open
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_High
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_Low
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_Change %
+DCOILBRENTEU_DCOILBRENTEU
+Others - Naphtha_x
+Others - Gasoline 92 unl
+Others - Jet Kero
+Others - Gasoil 500 ppm
+Others - WTI 1st
+Others - WTI 2nd
+Others - WTI 3rd
+Others - Dated Brent
+Others - ICE Brent 1st
+Others - ICE Brent 2nd
+Others - ICE Brent 3rd
+Others - DME Oman at Singapore MOC Mo01
+Others - Oman
+Others - Dubai 1st
+Others - Dubai 2nd
+Others - Dubai 3rd
+Others - IFO 380 cST SG
+Others - ICE Brent Asia Close 1st (ICE Brent at Singapore MOC Mo01)
+Others - ICE Brent Asia Close 2nd
+Others - Reuters Dubai Swap 1st (Asia Cls)
+Others - Reuters Dubai Swap 2nd (Asia Cls)
+Others - Average O/D
+Others - Gasoil 10 ppm
+Others - Naphtha_y
+Others - GASOIL 10ppm
+Others - JET KEROSENE
+"KEI_05082020093546645 - 3 month interbank rate - CHE - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - 3 month interbank rate - CHL - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - 3 month interbank rate - RUS - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - Broad money, s.a. - JPN - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Broad money, s.a. - USA - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Construction, s.a. - CZE - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Construction, s.a. - CZE - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Construction, s.a. - G-7 - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Construction, s.a. - G-7 - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Construction, s.a. - PRT - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Consumer confidence indicator, s.a. - COL - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - Consumer prices: all items - ESP - M - Level, ratio or index - Index"
+KEI_05082020093546645 - Consumer prices: all items - G-20 - M - Growth previous period - Percentage
+KEI_05082020093546645 - Consumer prices: all items - G-7 - M - Growth previous period - Percentage
+KEI_05082020093546645 - Consumer prices: all items - ITA - M - Growth previous period - Percentage
+"KEI_05082020093546645 - Consumer prices: all items - ITA - M - Level, ratio or index - Index"
+KEI_05082020093546645 - Consumer prices: all items - JPN - M - Growth previous period - Percentage
+"KEI_05082020093546645 - Consumer prices: all items - JPN - M - Level, ratio or index - Index"
+KEI_05082020093546645 - Consumer prices: all items - KOR - M - Growth on the same period of the previous year - Percentage
+KEI_05082020093546645 - Consumer prices: all items - KOR - M - Growth previous period - Percentage
+KEI_05082020093546645 - Consumer prices: all items - LVA - M - Growth on the same period of the previous year - Percentage
+KEI_05082020093546645 - Consumer prices: all items - OECD - M - Growth previous period - Percentage
+"KEI_05082020093546645 - Consumer prices: all items - OECD - M - Level, ratio or index - Index"
+KEI_05082020093546645 - Consumer prices: all items - OECDE - M - Growth previous period - Percentage
+"KEI_05082020093546645 - Consumer prices: all items - OECDE - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Exports in goods, s.a. - BEL - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Exports in goods, s.a. - BRA - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Exports in goods, s.a. - BRA - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Exports in goods, s.a. - DNK - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Exports in goods, s.a. - EST - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Exports in goods, s.a. - FRA - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Exports in goods, s.a. - GBR - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Exports in goods, s.a. - GBR - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Exports in goods, s.a. - IRL - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Exports in goods, s.a. - ISL - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Exports in goods, s.a. - ISL - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Exports in goods, s.a. - NOR - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Exports in goods, s.a. - ZAF - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Exports in goods, s.a. - ZAF - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - GDP (ratio to trend, smoothed) - CHE - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - GDP (ratio to trend, smoothed) - LUX - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Harmonised unemployment rate: all persons, s.a. - CZE - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - Harmonised unemployment rate: all persons, s.a. - ESP - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - Hourly earnings: manufacturing, s.a. - CAN - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Hourly earnings: manufacturing, s.a. - CAN - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Hourly earnings: manufacturing, s.a. - G-7 - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Hourly earnings: manufacturing, s.a. - OECD - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Imports in goods, s.a. - AUT - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Imports in goods, s.a. - BEL - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Imports in goods, s.a. - G-20 - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Imports in goods, s.a. - GBR - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Imports in goods, s.a. - GRC - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Imports in goods, s.a. - GRC - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Imports in goods, s.a. - IDN - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Imports in goods, s.a. - IDN - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Imports in goods, s.a. - IRL - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Imports in goods, s.a. - ISR - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Imports in goods, s.a. - NLD - M - Level, ratio or index - US Dollar"
+"KEI_05082020093546645 - Imports in goods, s.a. - NZL - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Imports in goods, s.a. - ZAF - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Industrial production, s.a. - AUT - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Industrial production, s.a. - CZE - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Industrial production, s.a. - CZE - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Industrial production, s.a. - FIN - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Industrial production, s.a. - GRC - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Industrial production, s.a. - ISR - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Long-term interest rate - ISR - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - Long-term interest rate - LTU - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - Manufacturing - Confidence indicator, s.a. - LUX - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - Narrow money, s.a. - ISR - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Narrow money, s.a. - JPN - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Overnight interbank rate - DNK - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - Overnight interbank rate - JPN - M - Level, ratio or index - Percentage"
+"KEI_05082020093546645 - Passenger car registrations, s.a. - CHE - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Passenger car registrations, s.a. - CHE - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Passenger car registrations, s.a. - CHL - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Passenger car registrations, s.a. - CHL - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Passenger car registrations, s.a. - ESP - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Passenger car registrations, s.a. - USA - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Passenger car registrations, s.a. - USA - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Permits issued for dwellings, s.a. - DNK - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Permits issued for dwellings, s.a. - KOR - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Permits issued for dwellings, s.a. - KOR - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Permits issued for dwellings, s.a. - KOR - M - Level, ratio or index - Index"
+KEI_05082020093546645 - Producer prices - Manufacturing  - DNK - M - Growth previous period - Percentage
+KEI_05082020093546645 - Producer prices - Manufacturing  - FIN - M - Growth previous period - Percentage
+"KEI_05082020093546645 - Producer prices - Manufacturing  - FIN - M - Level, ratio or index - Index"
+KEI_05082020093546645 - Producer prices - Manufacturing  - FRA - M - Growth previous period - Percentage
+KEI_05082020093546645 - Producer prices - Manufacturing  - GBR - M - Growth previous period - Percentage
+"KEI_05082020093546645 - Producer prices - Manufacturing  - GBR - M - Level, ratio or index - Index"
+KEI_05082020093546645 - Producer prices - Manufacturing  - GRC - M - Growth previous period - Percentage
+KEI_05082020093546645 - Producer prices - Manufacturing  - LVA - M - Growth previous period - Percentage
+"KEI_05082020093546645 - Producer prices - Manufacturing  - LVA - M - Level, ratio or index - Index"
+KEI_05082020093546645 - Producer prices - Manufacturing  - TUR - M - Growth previous period - Percentage
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - IRL - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - KOR - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - TUR - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - ZAF - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - ZAF - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - ZAF - M - Level, ratio or index - Index"
+KEI_05082020093546645 - Share prices - AUS - M - Growth on the same period of the previous year - Percentage
+KEI_05082020093546645 - Share prices - AUS - M - Growth previous period - Percentage
+KEI_05082020093546645 - Share prices - KOR - M - Growth previous period - Percentage
+"KEI_05082020093546645 - Total employment: all persons, s.a. - BRA - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Total employment: all persons, s.a. - BRA - M - Level, ratio or index - Persons"
+"KEI_05082020093546645 - Total employment: all persons, s.a. - KOR - M - Level, ratio or index - Persons"
+"KEI_05082020093546645 - Total manufacturing, s.a. - AUT - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Total manufacturing, s.a. - COL - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Total manufacturing, s.a. - COL - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Total manufacturing, s.a. - CZE - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Total manufacturing, s.a. - EST - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Total manufacturing, s.a. - FIN - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Total manufacturing, s.a. - ISR - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Total manufacturing, s.a. - JPN - M - Growth on the same period of the previous year - Percentage"
+"KEI_05082020093546645 - Total manufacturing, s.a. - LVA - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Total manufacturing, s.a. - NOR - M - Growth previous period - Percentage"
+"KEI_05082020093546645 - Total manufacturing, s.a. - NOR - M - Level, ratio or index - Index"
+"KEI_05082020093546645 - Total manufacturing, s.a. - SWE - M - Growth on the same period of the previous year - Percentage"
+MEI_CLI_05082020095624442 - 12-month rate of change of the trend restored CLI - JPN - M - Percentage
+MEI_CLI_05082020095624442 - Normalised (GDP) - CHE - M - Index
+MEI_CLI_05082020095624442 - Normalised (GDP) - LUX - M - Index
+MEI_CLI_05082020095624442 - Ratio to trend (GDP) - CHE - M - Index
+MEI_CLI_05082020095624442 - Ratio to trend (GDP) - LUX - M - Index
+"MEI_FIN_05082020095107560 - Immediate interest rates, Call Money, Interbank Rate, Per cent per annum - DNK - M - Percentage"
+"MEI_FIN_05082020095107560 - Immediate interest rates, Call Money, Interbank Rate, Per cent per annum - JPN - M - Percentage"
+"MEI_FIN_05082020095107560 - Long-term interest rates, Per cent per annum - ISR - M - Percentage"
+"MEI_FIN_05082020095107560 - Long-term interest rates, Per cent per annum - LTU - M - Percentage"
+"MEI_FIN_05082020095107560 - Narrow Money (M1) Index, SA - JPN - M - Index"
+MEI_FIN_05082020095107560 - Relative consumer price indices - ESP - M - Index
+MEI_FIN_05082020095107560 - Relative consumer price indices - TUR - M - Index
+"MEI_FIN_05082020095107560 - Share Prices, Index - AUS - M - Index"
+"MEI_FIN_05082020095107560 - Share Prices, Index - KOR - M - Index"
+"MEI_FIN_05082020095107560 - Share Prices, Index - PRT - M - Index"
+"MEI_FIN_05082020095107560 - Short-term interest rates, Per cent per annum - CHE - M - Percentage"
+"MEI_FIN_05082020095107560 - Short-term interest rates, Per cent per annum - CHL - M - Percentage"
+"MEI_FIN_05082020095107560 - Short-term interest rates, Per cent per annum - RUS - M - Percentage"
+"MEI_REAL_05082020095349861 - Passenger car registrations sa, Index - CHE - M - Index"
+"MEI_REAL_05082020095349861 - Passenger car registrations sa, Index - CHL - M - Index"
+"MEI_REAL_05082020095349861 - Passenger car registrations sa, Index - USA - M - Index"
+"MEI_REAL_05082020095349861 - Permits issued for dwellings sa, Index - KOR - M - Index"
+"MEI_REAL_05082020095349861 - Production in total manufacturing sa, Index - COL - M - Index"
+"MEI_REAL_05082020095349861 - Production in total manufacturing sa, Index - LVA - M - Index"
+"MEI_REAL_05082020095349861 - Production in total manufacturing sa, Index - NOR - M - Index"
+"MEI_REAL_05082020095349861 - Production of total construction sa, Index - CZE - M - Index"
+"MEI_REAL_05082020095349861 - Production of total industry sa, Index - CZE - M - Index"
+"MEI_REAL_05082020095349861 - Production of total manufactured intermediate goods sa, Index - LTU - M - Index"
+"MEI_REAL_05082020095349861 - Production of total manufactured investment goods sa, Index - COL - M - Index"
+"MEI_REAL_05082020095349861 - Production of total manufactured investment goods sa, Index - DNK - M - Index"
+"MEI_REAL_05082020095349861 - Total retail trade (Volume) sa, Index - TUR - M - Index"
+"MEI_REAL_05082020095349861 - Total retail trade (Volume) sa, Index - ZAF - M - Index"
+"MEI_REAL_05082020095349861 - Work started for dwellings sa, Index - CAN - M - Index"
+PRICES_CPI_05082020093140547 - CPI: 01 - Food and non-Alcoholic beverages - BEL - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01 - Food and non-Alcoholic beverages - BEL - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01 - Food and non-Alcoholic beverages - BEL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01 - Food and non-Alcoholic beverages - CRI - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01 - Food and non-Alcoholic beverages - LVA - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 01 - Food and non-Alcoholic beverages - LVA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - ESP - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - ESP - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - G-20 - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - G-7 - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - ITA - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - ITA - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - ITA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - JPN - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - JPN - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - JPN - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - KOR - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - KOR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - KOR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - LVA - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - LVA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - OECD - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - OECD - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - OECD - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - OECDE - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - OECDE - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - OECDE - M - Percentage change from previous period - Percentage
+"PRICES_CPI_05082020093140547 - CPI: 02 - Alcoholic beverages, tobacco and narcotics - SWE - M - Percentage change from previous period - Percentage"
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - CRI - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - CRI - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - CRI - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - DEU - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - NOR - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - NOR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - TUR - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - TUR - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - TUR - M - Percentage change from previous period - Percentage
+"PRICES_CPI_05082020093140547 - CPI: 04 - Housing, water, electricity, gas and other fuels - AUT - M - Percentage change from previous period - Percentage"
+"PRICES_CPI_05082020093140547 - CPI: 04 - Housing, water, electricity, gas and other fuels - CRI - M - Percentage change on the same period of the previous year - Percentage"
+"PRICES_CPI_05082020093140547 - CPI: 04 - Housing, water, electricity, gas and other fuels - HUN - M - Contribution to annual inflation - Percentage points"
+"PRICES_CPI_05082020093140547 - CPI: 04 - Housing, water, electricity, gas and other fuels - HUN - M - Percentage change on the same period of the previous year - Percentage"
+"PRICES_CPI_05082020093140547 - CPI: 04 - Housing, water, electricity, gas and other fuels - SVK - M - Percentage change from previous period - Percentage"
+"PRICES_CPI_05082020093140547 - CPI: 04 - Housing, water, electricity, gas and other fuels - ZAF - M - Percentage change on the same period of the previous year - Percentage"
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - GBR - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - GBR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - GRC - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - ISL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - ISL - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - JPN - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - JPN - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - POL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.2 - CPI Imputed rentals for housing - CAN - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 04.2 - CPI Imputed rentals for housing - CAN - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.3 - CPI Maintenance & repairs of the dwellings - AUT - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 04.3 - CPI Maintenance & repairs of the dwellings - CRI - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 04.3 - CPI Maintenance & repairs of the dwellings - ITA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.3 - CPI Maintenance & repairs of the dwellings - RUS - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - AUT - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - CRI - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - GRC - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - ITA - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - ITA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - ITA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - LUX - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - LUX - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - LUX - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - LVA - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - LVA - M - Percentage change from previous period - Percentage
+"PRICES_CPI_05082020093140547 - CPI: 04.5 - CPI Electricity, gas and other fuels - HUN - M - Percentage change on the same period of the previous year - Percentage"
+"PRICES_CPI_05082020093140547 - CPI: 04.5 - CPI Electricity, gas and other fuels - SVK - M - Percentage change from previous period - Percentage"
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - CAN - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - CAN - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - ESP - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - ESP - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - GRC - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - GRC - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - GRC - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - GRC - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - GRC - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - ISR - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - ISR - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - LVA - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 06 - Health - LVA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - ARG - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - CAN - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - CHE - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - CHE - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - ITA - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - ITA - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - ITA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - SVN - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - SVN - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - TUR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 07.2.2 - CPI Fuels and lubricants for personal transport equipment - ISR - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 07.2.2 - CPI Fuels and lubricants for personal transport equipment - ISR - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 07.2.2 - CPI Fuels and lubricants for personal transport equipment - ISR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 07.2.2 - CPI Fuels and lubricants for personal transport equipment - ISR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - ISR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - KOR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - LTU - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - LVA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - NOR - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - NOR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - NOR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - BEL - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - BEL - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - BEL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - COL - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - COL - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - COL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - IND - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - JPN - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - RUS - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - SWE - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - SWE - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - TUR - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - TUR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - USA - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - USA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - BEL - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - BEL - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - CZE - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - DNK - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - FRA - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - GBR - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - GBR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - GRC - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - IRL - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - IRL - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - IRL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - KOR - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - KOR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - LTU - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - LTU - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - LTU - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - LTU - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - LTU - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - MEX - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - MEX - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - POL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - SVK - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - SVK - M - National Index - Index
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - SVK - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - ESP - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - JPN - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - POL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - RUS - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - SWE - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - USA - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - USA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - USA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - CAN - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - CAN - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - ISL - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - ISL - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - ISR - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - ISR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - JPN - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - JPN - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: All items non-food non-energy - EST - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: All items non-food non-energy - G-7 - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: All items non-food non-energy - G-7 - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: All items non-food non-energy - ITA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: All items non-food non-energy - OECD - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: All items non-food non-energy - OECD - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: Contribution to annual inflation - residual - GRC - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: Contribution to annual inflation - residual - IRL - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: Contribution to annual inflation - residual - LVA - M - Contribution to annual inflation - Percentage points
+PRICES_CPI_05082020093140547 - CPI: Energy - ISR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: Energy - ISR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: Energy - LVA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: Energy - SVN - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: Goods - LVA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: Housing - CAN - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: Housing excluding imputed rentals for housing - AUT - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: Housing excluding imputed rentals for housing - ISL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: Housing excluding imputed rentals for housing - POL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: Services - EST - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: Services - EST - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: Services - ITA - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: Services - ITA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: Services - JPN - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: Services less housing - JPN - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: Services less housing (Housing excluding imputed rentals for housing) - EST - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - CPI: Services less housing (Housing excluding imputed rentals for housing) - EST - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - CPI: Services less housing (Housing excluding imputed rentals for housing) - ITA - M - Index - Index
+PRICES_CPI_05082020093140547 - CPI: Services less housing (Housing excluding imputed rentals for housing) - ITA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 01 - Food and non-Alcoholic beverages - BEL - M - Index - Index
+PRICES_CPI_05082020093140547 - HICP: 01 - Food and non-Alcoholic beverages - BEL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 01 - Food and non-Alcoholic beverages - ESP - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 03 - Clothing and footwear - NOR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 03 - Clothing and footwear - TUR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 04.1 - HICP Actual rentals for housing - ISL - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 04.3. - HICP Maintenance & repairs of the dwellings - AUT - M - Index - Index
+PRICES_CPI_05082020093140547 - HICP: 04.3. - HICP Maintenance & repairs of the dwellings - SVK - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 04.4 - HICP Water supply and miscellaneous services relating to the dwelling - EA19 - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 04.4 - HICP Water supply and miscellaneous services relating to the dwelling - LUX - M - Index - Index
+PRICES_CPI_05082020093140547 - HICP: 04.4 - HICP Water supply and miscellaneous services relating to the dwelling - LUX - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 04.4 - HICP Water supply and miscellaneous services relating to the dwelling - LVA - M - Index - Index
+"PRICES_CPI_05082020093140547 - HICP: 04.5 - HICP Electricity, gas and other fuels - SVK - M - Percentage change from previous period - Percentage"
+PRICES_CPI_05082020093140547 - HICP: 06 - Health - AUT - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 06 - Health - GRC - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 06 - Health - ITA - M - Index - Index
+PRICES_CPI_05082020093140547 - HICP: 06 - Health - LVA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 07 - Transport - ITA - M - Index - Index
+PRICES_CPI_05082020093140547 - HICP: 07 - Transport - ITA - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 07 - Transport - TUR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 07.2.2 - CPI Fuels and lubricants for personal transport equipment - DNK - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 07.2.2 - CPI Fuels and lubricants for personal transport equipment - SWE - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 08 - Communication - LTU - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 08 - Communication - NOR - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 08 - Communication - NOR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 09 - Recreation and culture - FIN - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 09 - Recreation and culture - PRT - M - Percentage change from previous period - Percentage
+PRICES_CPI_05082020093140547 - HICP: 09 - Recreation and culture - TUR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 09 - Recreation and culture - USA - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 10 - Education - GBR - M - Percentage change on the same period of the previous year - Percentage
+PRICES_CPI_05082020093140547 - HICP: 10 - Education - GRC - M - Percentage change from previous period - Percentage
+"0._No_Standard_Table - Retail Price of Electricity for All Sectors, Middle Atlantic - M - cents per kilowatt hour"
+"0._No_Standard_Table - Propane PADD 3 (Gulf Coast) Inventory - M - million barrels, end-of-period"
+"0._No_Standard_Table - Retail Sales of Electricity in Transportation Sector, West South Central - M - billion kilowatthours"
+"0._No_Standard_Table - Commercial sector net generation from geothermal, United States - M - billion kilowatthours"
+"0._No_Standard_Table - Wholesale Electricity Price, Southeast index, Southeast Reliability (SERC) Into Southern hub - M - dollars per megawatthour"
+"0._No_Standard_Table - Electric power sector net generation from other gases, United States - M - billion kilowatthours"
+"0._No_Standard_Table - Electric power sector net generation from petroleum, California - M - billion kilowatthours"
+"0._No_Standard_Table - Electric power sector net generation from conventional hydropower, Florida (FRCC) - M - billion kilowatthours"
+"0._No_Standard_Table - Electric power sector net generation from other gases, Midwest (Midcontinent ISO) - M - billion kilowatthours"
+"0._No_Standard_Table - Electric power sector net generation from utility-scale solar, Northwest - M - billion kilowatthours"
+0._No_Standard_Table - Propane Refinery and Blender Net Production - M - million barrels per day
+0._No_Standard_Table - Crude Oil Adjustment - M - million barrels per day
+"0._No_Standard_Table - Retail Price of Electricity for All Sectors, U.S. Total - M - cents per kilowatt hour"
+0._No_Standard_Table - Finished Motor Gasoline Refinery Output - M - million barrels per day
+0._No_Standard_Table - Fuel Ethanol Refinery and Blender Net Inputs - M - million barrels per day
+0._No_Standard_Table - Commercial Sector Consumption of Wood and Wood Waste Biomass Energy - M - quadrillion btu
+"0._No_Standard_Table - Unplanned liquid fuel production disruptions, Sudan and South Sudan - M - million barrels per day"
+0._No_Standard_Table - Butanes/Butylenes Net Imports - M - million barrels per day
+"0._No_Standard_Table - Unplanned liquid fuel production disruptions, Saudi Arabia - M - million barrels per day"
+"0._No_Standard_Table - Unplanned liquid fuel production disruptions, Australia - M - million barrels per day"
+"0._No_Standard_Table - Liquid Fuels Consumption, Mexico - M - million barrels per day"
+"0._No_Standard_Table - Retail Price of Electricity for All Sectors, Pacific Contiguous - M - cents per kilowatt hour"
+0._No_Standard_Table - West Texas Intermediate Crude Oil Price - M - dollars per barrel
+0._No_Standard_Table - Motor Gasoline Blend Components Refinery Input - M - million barrels per day
+0._No_Standard_Table - Alaska Crude Oil Production - M - million barrels per day
+"0._No_Standard_Table - Crude Oil and Liquid Fuels Supply, Australia - M - million barrels per day"
+1._U.S._Energy_Markets_Summary - Crude Oil West Texas Intermediate Spot - M - dollars per barrel
+2._Energy_Prices - West Texas Intermediate Spot Average - M - dollars per barrel
+3b._Non-OPEC_Petroleum_and_Other_Liquids_Production - Australia - M - million barrels per day
+3d._World_Petroleum_and_Other_Liquids_Consumption - Mexico - M - million barrels per day
+4a._U.S._Petroleum_and_Other_Liquids_Supply_Consumption_and_Inventories - Alaska - M - million barrels per day
+4a._U.S._Petroleum_and_Other_Liquids_Supply_Consumption_and_Inventories - Crude Oil Adjustment - M - million barrels per day
+4a._U.S._Petroleum_and_Other_Liquids_Supply_Consumption_and_Inventories - Product Inventory Net Withdrawals - M - million barrels per day
+4b._U.S._Hydrocarbon_Gas_Liquids_(HGL)_and_Petroleum_Refinery_Balances - Propane - M - million barrels per day.1
+4b._U.S._Hydrocarbon_Gas_Liquids_(HGL)_and_Petroleum_Refinery_Balances - Butanes/Butylenes - M - million barrels per day.1
+4b._U.S._Hydrocarbon_Gas_Liquids_(HGL)_and_Petroleum_Refinery_Balances - Motor Gasoline Blend Components - M - million barrels per day
+4b._U.S._Hydrocarbon_Gas_Liquids_(HGL)_and_Petroleum_Refinery_Balances - Finished Motor Gasoline - M - million barrels per day
+"7a._U.S._Electricity_Industry_Overview - SERC index, Into Southern - M - dollars per megawatthour"
+7c._U.S._Regional_Retail_Electricity_Prices - Middle Atlantic - M - cents per kilowatthour.3
+7c._U.S._Regional_Retail_Electricity_Prices - Pacific - M - cents per kilowatthour.3
+7c._U.S._Regional_Retail_Electricity_Prices - U.S.Average - M - cents per kilowatthour.1
+7d._U.S._Regional_Electricity_Generation_Electric_Power_Sector - Other gases - M - billion kilowatthours
+7d._U.S._Regional_Electricity_Generation_Electric_Power_Sector - Conventional hydropower - M - billion kilowatthours.5
+8a._U.S._Renewable_Energy_Consumption - Wood Biomass - M - quadrillion btu.2

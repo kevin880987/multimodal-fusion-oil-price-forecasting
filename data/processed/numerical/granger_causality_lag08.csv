@@ -1,0 +1,167 @@
+X (Cause),Y (Effect),Lag 7,Lag 14,Lag 21,Lag 28,Lag 35,Lag 42,Lag 49,Lag 56
+Crude Oil WTI Futures Historical Data_Price,Trend,0.0064,0.0096,0.0171,0.0,0.0,0.0,0.0,0.0
+Crude Oil WTI Futures Historical Data_Open,Trend,0.0005,0.0011,0.0028,0.0,0.0,0.0,0.0,0.0
+Crude Oil WTI Futures Historical Data_High,Trend,0.0027,0.0026,0.0431,0.0,0.0,0.0,0.0,0.0
+Crude Oil WTI Futures Historical Data_Low,Trend,0.0048,0.0278,0.0046,0.0,0.0,0.0,0.0,0.0
+Crude Oil WTI Futures Historical Data_Change %,Trend,0.0243,0.0785,0.0601,0.0,0.0,0.0,0.0,0.0
+Brent Oil Futures Historical Data_Price,Trend,0.0168,0.0359,0.058,0.0,0.0,0.0,0.0,0.0
+Brent Oil Futures Historical Data_Open,Trend,0.0009,0.0038,0.0131,0.0,0.0,0.0,0.0,0.0
+Brent Oil Futures Historical Data_High,Trend,0.0183,0.1216,0.2905,0.0001,0.0,0.0,0.0,0.0
+Brent Oil Futures Historical Data_Low,Trend,0.0139,0.093,0.0114,0.0,0.0,0.0,0.0,0.0
+Brent Oil Futures Historical Data_Change %,Trend,0.0783,0.1691,0.1656,0.0,0.0,0.0,0.0,0.0
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_Price,Trend,0.0003,0.0043,0.0241,0.0001,0.0012,0.0004,0.0,0.0001
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_Open,Trend,0.0003,0.0043,0.0241,0.0001,0.0012,0.0004,0.0,0.0001
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_High,Trend,0.0003,0.0043,0.0241,0.0001,0.0012,0.0004,0.0,0.0001
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_Low,Trend,0.0003,0.0043,0.0241,0.0001,0.0012,0.0004,0.0,0.0001
+Dubai Crude Oil (Platts) Financial Futures Historical Data - Price_Change %,Trend,0.0065,0.0269,0.0426,0.0032,0.0242,0.0145,0.0006,0.0064
+DCOILBRENTEU_DCOILBRENTEU,Trend,0.1506,0.1342,0.1241,0.0003,0.0,0.0,0.0,0.0
+Others - Jet Kero,Trend,0.1613,0.0425,0.0572,0.0275,0.0268,0.0048,0.0001,0.0062
+Others - Gasoil 500 ppm,Trend,0.1407,0.121,0.11,0.1106,0.0405,0.0079,0.0,0.0011
+Others - WTI 1st,Trend,0.0848,0.0054,0.0245,0.0,0.0,0.0,0.0,0.0
+Others - WTI 2nd,Trend,0.1135,0.0027,0.0081,0.0,0.0,0.0,0.0,0.0
+Others - WTI 3rd,Trend,0.1309,0.0052,0.01,0.0,0.0,0.0,0.0,0.0
+Others - ICE Brent 1st,Trend,0.2217,0.0979,0.1374,0.0004,0.0001,0.0,0.0,0.0
+Others - ICE Brent 2nd,Trend,0.3384,0.0421,0.0799,0.0018,0.0005,0.0001,0.0,0.0
+Others - ICE Brent 3rd,Trend,0.3455,0.0404,0.0774,0.0016,0.0004,0.0001,0.0,0.0
+Others - Dubai 1st,Trend,0.2547,0.0427,0.0758,0.0317,0.0114,0.0055,0.0,0.0051
+Others - Dubai 3rd,Trend,0.1777,0.0476,0.0651,0.0254,0.0056,0.002,0.0,0.0012
+Others - ICE Brent Asia Close 1st (ICE Brent at Singapore MOC Mo01),Trend,0.0629,0.0215,0.0376,0.02,0.007,0.0019,0.0,0.0014
+Others - ICE Brent Asia Close 2nd,Trend,0.0788,0.0222,0.0353,0.0173,0.0059,0.0018,0.0,0.001
+Others - Reuters Dubai Swap 1st (Asia Cls),Trend,0.1457,0.1716,0.1497,0.0059,0.0024,0.001,0.0001,0.0038
+Others - Average O/D,Trend,0.2181,0.0392,0.0693,0.0371,0.014,0.0073,0.0001,0.0062
+Others - Gasoil 10 ppm,Trend,0.1324,0.1013,0.0951,0.1434,0.0636,0.0152,0.0003,0.005
+Others - GASOIL 10ppm,Trend,0.1219,0.1211,0.1031,0.1123,0.0466,0.0095,0.0001,0.0022
+Others - JET KEROSENE,Trend,0.1613,0.0425,0.0572,0.0275,0.0268,0.0048,0.0001,0.0062
+"KEI_05082020093546645 - 3 month interbank rate - CHL - M - Level, ratio or index - Percentage",Trend,0.0999,0.0931,0.0179,0.0005,0.0001,0.0032,0.0136,0.0275
+"KEI_05082020093546645 - Construction, s.a. - CZE - M - Growth on the same period of the previous year - Percentage",Trend,0.2285,0.0944,0.102,0.052,0.0492,0.0829,0.1127,0.0445
+"KEI_05082020093546645 - Construction, s.a. - G-7 - M - Level, ratio or index - Index",Trend,0.0338,0.0807,0.203,0.0789,0.0193,0.1368,0.2431,0.0717
+KEI_05082020093546645 - Consumer prices: all items - ITA - M - Growth previous period - Percentage,Trend,0.0298,0.007,0.0616,0.1324,0.0052,0.0621,0.0448,0.0845
+"KEI_05082020093546645 - Consumer prices: all items - ITA - M - Level, ratio or index - Index",Trend,0.0183,0.0177,0.1107,0.1851,0.0057,0.0315,0.0108,0.0208
+KEI_05082020093546645 - Consumer prices: all items - LVA - M - Growth on the same period of the previous year - Percentage,Trend,0.0054,0.059,0.0291,0.096,0.0707,0.0087,0.0335,0.1891
+"KEI_05082020093546645 - Exports in goods, s.a. - BRA - M - Growth previous period - Percentage",Trend,0.0077,0.003,0.0104,0.0002,0.0001,0.0041,0.0039,0.07
+"KEI_05082020093546645 - Exports in goods, s.a. - BRA - M - Level, ratio or index - US Dollar",Trend,0.0179,0.0001,0.0023,0.0002,0.0001,0.001,0.0023,0.0083
+"KEI_05082020093546645 - Exports in goods, s.a. - DNK - M - Growth on the same period of the previous year - Percentage",Trend,0.0143,0.0054,0.002,0.0006,0.0006,0.0088,0.0086,0.0147
+"KEI_05082020093546645 - Exports in goods, s.a. - EST - M - Growth on the same period of the previous year - Percentage",Trend,0.316,0.0399,0.055,0.0572,0.0186,0.0675,0.0939,0.0145
+"KEI_05082020093546645 - Exports in goods, s.a. - IRL - M - Growth previous period - Percentage",Trend,0.1241,0.0116,0.0581,0.0123,0.0067,0.0499,0.0724,0.018
+"KEI_05082020093546645 - Exports in goods, s.a. - ISL - M - Growth previous period - Percentage",Trend,0.0049,0.0391,0.0671,0.025,0.0303,0.0334,0.0025,0.0047
+"KEI_05082020093546645 - Exports in goods, s.a. - ISL - M - Level, ratio or index - US Dollar",Trend,0.0333,0.0201,0.0047,0.0028,0.0048,0.0063,0.0007,0.0035
+"KEI_05082020093546645 - GDP (ratio to trend, smoothed) - CHE - M - Level, ratio or index - Index",Trend,0.0097,0.0192,0.0018,0.0318,0.1382,0.0201,0.0189,0.0033
+"KEI_05082020093546645 - Harmonised unemployment rate: all persons, s.a. - ESP - M - Level, ratio or index - Percentage",Trend,0.0863,0.0512,0.0789,0.0068,0.0015,0.0036,0.0014,0.0001
+"KEI_05082020093546645 - Hourly earnings: manufacturing, s.a. - CAN - M - Growth previous period - Percentage",Trend,0.0526,0.2667,0.1768,0.0122,0.0145,0.1528,0.1476,0.2823
+"KEI_05082020093546645 - Hourly earnings: manufacturing, s.a. - CAN - M - Level, ratio or index - Index",Trend,0.1941,0.212,0.1839,0.0178,0.0171,0.1147,0.2519,0.4462
+"KEI_05082020093546645 - Hourly earnings: manufacturing, s.a. - G-7 - M - Growth on the same period of the previous year - Percentage",Trend,0.0154,0.0014,0.0001,0.0,0.0002,0.0014,0.0022,0.0066
+"KEI_05082020093546645 - Industrial production, s.a. - AUT - M - Growth on the same period of the previous year - Percentage",Trend,0.0552,0.0856,0.0127,0.0005,0.0026,0.0223,0.0285,0.0219
+"KEI_05082020093546645 - Industrial production, s.a. - CZE - M - Growth previous period - Percentage",Trend,0.3015,0.0522,0.1797,0.0174,0.0057,0.0536,0.0255,0.0404
+"KEI_05082020093546645 - Industrial production, s.a. - CZE - M - Level, ratio or index - Index",Trend,0.7241,0.0476,0.1241,0.0102,0.003,0.018,0.0154,0.0297
+"KEI_05082020093546645 - Industrial production, s.a. - FIN - M - Growth on the same period of the previous year - Percentage",Trend,0.0211,0.0021,0.0044,0.0001,0.0002,0.0002,0.0003,0.0017
+"KEI_05082020093546645 - Industrial production, s.a. - GRC - M - Growth on the same period of the previous year - Percentage",Trend,0.1148,0.3416,0.153,0.1558,0.0769,0.0416,0.0309,0.0659
+"KEI_05082020093546645 - Long-term interest rate - ISR - M - Level, ratio or index - Percentage",Trend,0.2787,0.3103,0.1282,0.3137,0.3862,0.0353,0.0036,0.0063
+"KEI_05082020093546645 - Passenger car registrations, s.a. - CHE - M - Level, ratio or index - Index",Trend,0.0028,0.0151,0.1612,0.0194,0.0208,0.0674,0.0425,0.0457
+"KEI_05082020093546645 - Passenger car registrations, s.a. - USA - M - Level, ratio or index - Index",Trend,0.0022,0.0332,0.1765,0.0105,0.0155,0.1089,0.1774,0.3754
+"KEI_05082020093546645 - Permits issued for dwellings, s.a. - DNK - M - Growth previous period - Percentage",Trend,0.1175,0.0087,0.0809,0.0047,0.0002,0.0157,0.0179,0.0164
+"KEI_05082020093546645 - Permits issued for dwellings, s.a. - KOR - M - Level, ratio or index - Index",Trend,0.0026,0.0037,0.0188,0.0049,0.0281,0.109,0.0248,0.0181
+KEI_05082020093546645 - Producer prices - Manufacturing  - FIN - M - Growth previous period - Percentage,Trend,0.0426,0.0033,0.0106,0.0001,0.0001,0.0002,0.0001,0.0011
+"KEI_05082020093546645 - Producer prices - Manufacturing  - FIN - M - Level, ratio or index - Index",Trend,0.0764,0.0015,0.0014,0.0,0.0001,0.0001,0.0001,0.0013
+KEI_05082020093546645 - Producer prices - Manufacturing  - LVA - M - Growth previous period - Percentage,Trend,0.2306,0.0837,0.1851,0.0672,0.0222,0.1435,0.0823,0.0176
+"KEI_05082020093546645 - Producer prices - Manufacturing  - LVA - M - Level, ratio or index - Index",Trend,0.3148,0.0426,0.1766,0.0581,0.0271,0.2543,0.1904,0.1017
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - KOR - M - Growth on the same period of the previous year - Percentage",Trend,0.0691,0.0585,0.0091,0.0005,0.0003,0.0002,0.004,0.0033
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - ZAF - M - Growth on the same period of the previous year - Percentage",Trend,0.1212,0.0108,0.0123,0.0031,0.007,0.0013,0.0007,0.0111
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - ZAF - M - Growth previous period - Percentage",Trend,0.0223,0.2259,0.313,0.0004,0.0007,0.0003,0.0002,0.001
+"KEI_05082020093546645 - Retail trade (Volume), s.a. - ZAF - M - Level, ratio or index - Index",Trend,0.0101,0.0819,0.1312,0.0017,0.0012,0.0,0.0,0.0001
+"KEI_05082020093546645 - Total manufacturing, s.a. - AUT - M - Growth on the same period of the previous year - Percentage",Trend,0.0356,0.0786,0.0174,0.0004,0.0043,0.0618,0.1789,0.1963
+"KEI_05082020093546645 - Total manufacturing, s.a. - COL - M - Growth previous period - Percentage",Trend,0.0031,0.0027,0.0001,0.0,0.0,0.0,0.0003,0.0011
+"KEI_05082020093546645 - Total manufacturing, s.a. - COL - M - Level, ratio or index - Index",Trend,0.0925,0.0306,0.0007,0.0004,0.0002,0.0002,0.0041,0.0014
+"KEI_05082020093546645 - Total manufacturing, s.a. - CZE - M - Growth previous period - Percentage",Trend,0.3926,0.0485,0.0662,0.0095,0.0098,0.0221,0.0166,0.0183
+"KEI_05082020093546645 - Total manufacturing, s.a. - FIN - M - Growth on the same period of the previous year - Percentage",Trend,0.0077,0.0011,0.0003,0.0,0.0,0.0,0.0001,0.0004
+"KEI_05082020093546645 - Total manufacturing, s.a. - SWE - M - Growth on the same period of the previous year - Percentage",Trend,0.0212,0.0348,0.0093,0.0065,0.0005,0.0015,0.0095,0.0038
+MEI_CLI_05082020095624442 - Normalised (GDP) - CHE - M - Index,Trend,0.0097,0.0192,0.0018,0.0319,0.1383,0.02,0.0189,0.0032
+MEI_CLI_05082020095624442 - Ratio to trend (GDP) - CHE - M - Index,Trend,0.0097,0.0192,0.0018,0.0317,0.138,0.0202,0.0189,0.0033
+"MEI_FIN_05082020095107560 - Long-term interest rates, Per cent per annum - ISR - M - Percentage",Trend,0.2787,0.3103,0.1282,0.3137,0.3862,0.0353,0.0036,0.0063
+MEI_FIN_05082020095107560 - Relative consumer price indices - TUR - M - Index,Trend,0.0196,0.0032,0.0072,0.1453,0.1295,0.1586,0.3365,0.3291
+"MEI_FIN_05082020095107560 - Share Prices, Index - AUS - M - Index",Trend,0.0079,0.0035,0.1202,0.0211,0.0174,0.0238,0.0099,0.0441
+"MEI_FIN_05082020095107560 - Share Prices, Index - KOR - M - Index",Trend,0.0135,0.015,0.1862,0.1876,0.0054,0.0422,0.0118,0.0071
+"MEI_FIN_05082020095107560 - Short-term interest rates, Per cent per annum - CHL - M - Percentage",Trend,0.0999,0.0931,0.0179,0.0005,0.0001,0.0032,0.0136,0.0275
+"MEI_REAL_05082020095349861 - Passenger car registrations sa, Index - CHE - M - Index",Trend,0.0028,0.0151,0.1612,0.0194,0.0208,0.0674,0.0425,0.0457
+"MEI_REAL_05082020095349861 - Passenger car registrations sa, Index - USA - M - Index",Trend,0.0022,0.0332,0.1765,0.0105,0.0155,0.1089,0.1774,0.3754
+"MEI_REAL_05082020095349861 - Permits issued for dwellings sa, Index - KOR - M - Index",Trend,0.0026,0.0037,0.0188,0.0049,0.0281,0.109,0.0248,0.0181
+"MEI_REAL_05082020095349861 - Production in total manufacturing sa, Index - COL - M - Index",Trend,0.0925,0.0306,0.0007,0.0004,0.0002,0.0002,0.0041,0.0014
+"MEI_REAL_05082020095349861 - Production of total industry sa, Index - CZE - M - Index",Trend,0.7241,0.0476,0.1241,0.0102,0.003,0.018,0.0154,0.0297
+"MEI_REAL_05082020095349861 - Production of total manufactured intermediate goods sa, Index - LTU - M - Index",Trend,0.098,0.0224,0.004,0.0015,0.0007,0.0134,0.0487,0.051
+"MEI_REAL_05082020095349861 - Production of total manufactured investment goods sa, Index - COL - M - Index",Trend,0.0004,0.0045,0.0031,0.0014,0.0004,0.0012,0.005,0.0126
+"MEI_REAL_05082020095349861 - Production of total manufactured investment goods sa, Index - DNK - M - Index",Trend,0.3616,0.0612,0.0008,0.0011,0.0003,0.0022,0.0045,0.0128
+"MEI_REAL_05082020095349861 - Total retail trade (Volume) sa, Index - ZAF - M - Index",Trend,0.0101,0.0819,0.1312,0.0017,0.0012,0.0,0.0,0.0001
+"MEI_REAL_05082020095349861 - Work started for dwellings sa, Index - CAN - M - Index",Trend,0.5795,0.1647,0.009,0.0066,0.0078,0.0533,0.1088,0.1857
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - ITA - M - Index - Index,Trend,0.0183,0.0177,0.1106,0.185,0.0057,0.0314,0.0108,0.0207
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - ITA - M - National Index - Index,Trend,0.0183,0.0177,0.1106,0.185,0.0057,0.0314,0.0108,0.0207
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - ITA - M - Percentage change from previous period - Percentage,Trend,0.0298,0.007,0.0616,0.1324,0.0052,0.0621,0.0448,0.0845
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - LVA - M - Contribution to annual inflation - Percentage points,Trend,0.0054,0.059,0.0291,0.096,0.0707,0.0087,0.0335,0.1891
+PRICES_CPI_05082020093140547 - CPI: 01-12 - All items - LVA - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0054,0.059,0.0291,0.096,0.0707,0.0087,0.0335,0.1891
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - CRI - M - Index - Index,Trend,0.2311,0.0045,0.0236,0.005,0.001,0.0054,0.0056,0.0389
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - CRI - M - National Index - Index,Trend,0.2311,0.0045,0.0236,0.005,0.001,0.0054,0.0056,0.0389
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - CRI - M - Percentage change from previous period - Percentage,Trend,0.4182,0.0344,0.1321,0.0198,0.0055,0.0233,0.0279,0.0943
+PRICES_CPI_05082020093140547 - CPI: 03 - Clothing and footwear - DEU - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0048,0.0038,0.0075,0.0945,0.0027,0.0,0.0002,0.0
+"PRICES_CPI_05082020093140547 - CPI: 04 - Housing, water, electricity, gas and other fuels - AUT - M - Percentage change from previous period - Percentage",Trend,0.4381,0.0085,0.0583,0.0167,0.0026,0.023,0.0268,0.0488
+"PRICES_CPI_05082020093140547 - CPI: 04 - Housing, water, electricity, gas and other fuels - HUN - M - Contribution to annual inflation - Percentage points",Trend,0.0013,0.083,0.0777,0.2512,0.0123,0.0165,0.0084,0.0934
+"PRICES_CPI_05082020093140547 - CPI: 04 - Housing, water, electricity, gas and other fuels - HUN - M - Percentage change on the same period of the previous year - Percentage",Trend,0.0012,0.079,0.0849,0.2643,0.0128,0.0194,0.0092,0.095
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - GBR - M - Index - Index,Trend,0.0015,0.0006,0.0001,0.0001,0.0,0.0,0.0001,0.0005
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - GBR - M - Percentage change from previous period - Percentage,Trend,0.0,0.0001,0.0006,0.0008,0.0008,0.0001,0.0001,0.0012
+PRICES_CPI_05082020093140547 - CPI: 04.1 - CPI Actual rentals for housing - POL - M - Percentage change from previous period - Percentage,Trend,0.0373,0.1136,0.1205,0.0051,0.0042,0.0217,0.0101,0.0219
+PRICES_CPI_05082020093140547 - CPI: 04.3 - CPI Maintenance & repairs of the dwellings - ITA - M - Percentage change from previous period - Percentage,Trend,0.0024,0.0182,0.027,0.0082,0.0464,0.0987,0.0313,0.0219
+PRICES_CPI_05082020093140547 - CPI: 04.3 - CPI Maintenance & repairs of the dwellings - RUS - M - Percentage change from previous period - Percentage,Trend,0.0022,0.0246,0.0189,0.0419,0.0013,0.0017,0.0072,0.0086
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - CRI - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0776,0.3725,0.0068,0.0003,0.002,0.0023,0.0052,0.0138
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - GRC - M - Percentage change from previous period - Percentage,Trend,0.4777,0.4781,0.1441,0.0038,0.0002,0.0007,0.002,0.0016
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - LUX - M - Index - Index,Trend,0.0371,0.5254,0.3514,0.0389,0.0465,0.0613,0.0349,0.1574
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - LUX - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0017,0.0372,0.2115,0.0127,0.004,0.0002,0.0008,0.0021
+PRICES_CPI_05082020093140547 - CPI: 04.4 - CPI Water supply and miscellaneous services relating to the dwelling - LVA - M - Index - Index,Trend,0.0313,0.284,0.0108,0.0201,0.0363,0.0222,0.0727,0.0572
+"PRICES_CPI_05082020093140547 - CPI: 04.5 - CPI Electricity, gas and other fuels - HUN - M - Percentage change on the same period of the previous year - Percentage",Trend,0.0057,0.1868,0.1092,0.3282,0.0186,0.0097,0.004,0.048
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - CHE - M - Contribution to annual inflation - Percentage points,Trend,0.0123,0.0132,0.0004,0.0,0.0,0.0,0.0,0.0001
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - CHE - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0127,0.0163,0.0005,0.0001,0.0,0.0,0.0,0.0001
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - ITA - M - Index - Index,Trend,0.1106,0.1175,0.7615,0.1454,0.031,0.1433,0.0289,0.0536
+PRICES_CPI_05082020093140547 - CPI: 07 - Transport - ITA - M - National Index - Index,Trend,0.1106,0.1175,0.7615,0.1454,0.031,0.1433,0.0289,0.0536
+PRICES_CPI_05082020093140547 - CPI: 07.2.2 - CPI Fuels and lubricants for personal transport equipment - ISR - M - Index - Index,Trend,0.0072,0.0271,0.0102,0.0206,0.0051,0.0122,0.0013,0.0186
+PRICES_CPI_05082020093140547 - CPI: 07.2.2 - CPI Fuels and lubricants for personal transport equipment - ISR - M - National Index - Index,Trend,0.0072,0.0271,0.0102,0.0206,0.0051,0.0122,0.0013,0.0186
+PRICES_CPI_05082020093140547 - CPI: 07.2.2 - CPI Fuels and lubricants for personal transport equipment - ISR - M - Percentage change from previous period - Percentage,Trend,0.0094,0.0152,0.0088,0.0012,0.0004,0.0048,0.0105,0.0902
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - ISR - M - Percentage change from previous period - Percentage,Trend,0.0019,0.0096,0.0182,0.002,0.0011,0.0038,0.001,0.0031
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - KOR - M - Percentage change from previous period - Percentage,Trend,0.0,0.0007,0.0001,0.0001,0.0,0.0,0.0,0.0003
+PRICES_CPI_05082020093140547 - CPI: 08 - Communication - LVA - M - Percentage change from previous period - Percentage,Trend,0.371,0.0399,0.0721,0.0169,0.0007,0.0043,0.0016,0.004
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - BEL - M - Index - Index,Trend,0.5601,0.0416,0.0029,0.0009,0.0005,0.0254,0.0118,0.005
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - BEL - M - National Index - Index,Trend,0.5602,0.0416,0.0029,0.0009,0.0005,0.0254,0.0118,0.005
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - BEL - M - Percentage change from previous period - Percentage,Trend,0.8172,0.247,0.0474,0.0011,0.0002,0.0083,0.0115,0.0121
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - TUR - M - Contribution to annual inflation - Percentage points,Trend,0.0063,0.0071,0.0026,0.0145,0.0141,0.0325,0.0118,0.0024
+PRICES_CPI_05082020093140547 - CPI: 09 - Recreation and culture - TUR - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0047,0.0072,0.0033,0.017,0.0183,0.0385,0.0134,0.0029
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - FRA - M - Contribution to annual inflation - Percentage points,Trend,0.0021,0.1398,0.1339,0.0295,0.0073,0.0109,0.0042,0.0233
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - KOR - M - Contribution to annual inflation - Percentage points,Trend,0.4271,0.1786,0.3378,0.1265,0.2027,0.247,0.2968,0.26
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - LTU - M - Index - Index,Trend,0.0714,0.0698,0.5328,0.218,0.1308,0.1772,0.0551,0.0702
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - LTU - M - National Index - Index,Trend,0.0714,0.0698,0.5328,0.218,0.1308,0.1772,0.0551,0.0702
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - LTU - M - Percentage change from previous period - Percentage,Trend,0.1415,0.122,0.4471,0.0801,0.0468,0.1521,0.0669,0.065
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - SVK - M - Index - Index,Trend,0.2622,0.2846,0.6951,0.3528,0.3247,0.5518,0.4378,0.3737
+PRICES_CPI_05082020093140547 - CPI: 10 - Education - SVK - M - National Index - Index,Trend,0.2622,0.2846,0.6951,0.3528,0.3247,0.5518,0.4377,0.3737
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - JPN - M - Percentage change from previous period - Percentage,Trend,0.1294,0.0053,0.0253,0.0058,0.001,0.0023,0.0013,0.0039
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - USA - M - Contribution to annual inflation - Percentage points,Trend,0.0315,0.1236,0.0465,0.0821,0.0453,0.0355,0.0647,0.1479
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - USA - M - Percentage change from previous period - Percentage,Trend,0.7403,0.5336,0.1235,0.1265,0.1516,0.1446,0.0756,0.0312
+PRICES_CPI_05082020093140547 - CPI: 11 - Restaurants and hotels - USA - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0283,0.1341,0.0513,0.0881,0.0486,0.0368,0.0658,0.1554
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - ISL - M - Contribution to annual inflation - Percentage points,Trend,0.0004,0.0173,0.0018,0.0024,0.0028,0.0037,0.0105,0.028
+PRICES_CPI_05082020093140547 - CPI: 12 - Miscellaneous goods and services - ISL - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0004,0.0216,0.0017,0.0016,0.0021,0.0029,0.0091,0.0239
+PRICES_CPI_05082020093140547 - CPI: All items non-food non-energy - EST - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0448,0.1697,0.0196,0.0041,0.0066,0.0923,0.0544,0.0791
+PRICES_CPI_05082020093140547 - CPI: Contribution to annual inflation - residual - GRC - M - Contribution to annual inflation - Percentage points,Trend,0.001,0.0111,0.0163,0.0159,0.0009,0.0024,0.0011,0.0263
+PRICES_CPI_05082020093140547 - CPI: Energy - ISR - M - Percentage change from previous period - Percentage,Trend,0.0244,0.0334,0.019,0.003,0.0011,0.0117,0.0119,0.0471
+PRICES_CPI_05082020093140547 - CPI: Services - EST - M - Percentage change from previous period - Percentage,Trend,0.6688,0.1444,0.0831,0.0133,0.0035,0.0072,0.0003,0.0174
+PRICES_CPI_05082020093140547 - CPI: Services - EST - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0145,0.0251,0.0004,0.0016,0.0048,0.0125,0.0006,0.0026
+PRICES_CPI_05082020093140547 - CPI: Services - JPN - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0512,0.0206,0.0043,0.0087,0.0005,0.0047,0.0106,0.0095
+PRICES_CPI_05082020093140547 - CPI: Services less housing (Housing excluding imputed rentals for housing) - EST - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0041,0.0159,0.0002,0.0007,0.0028,0.0158,0.0022,0.0059
+PRICES_CPI_05082020093140547 - HICP: 04.3. - HICP Maintenance & repairs of the dwellings - SVK - M - Percentage change from previous period - Percentage,Trend,0.0702,0.1437,0.0128,0.0001,0.0001,0.0006,0.0042,0.0179
+PRICES_CPI_05082020093140547 - HICP: 04.4 - HICP Water supply and miscellaneous services relating to the dwelling - LUX - M - Index - Index,Trend,0.0371,0.5254,0.3514,0.0389,0.0465,0.0613,0.0349,0.1574
+PRICES_CPI_05082020093140547 - HICP: 04.4 - HICP Water supply and miscellaneous services relating to the dwelling - LUX - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0017,0.039,0.2218,0.0133,0.0044,0.0002,0.0008,0.0019
+PRICES_CPI_05082020093140547 - HICP: 04.4 - HICP Water supply and miscellaneous services relating to the dwelling - LVA - M - Index - Index,Trend,0.0313,0.2845,0.0109,0.0201,0.0362,0.0219,0.0719,0.0568
+PRICES_CPI_05082020093140547 - HICP: 07 - Transport - ITA - M - Index - Index,Trend,0.1184,0.1236,0.7625,0.1364,0.0291,0.141,0.0289,0.0541
+PRICES_CPI_05082020093140547 - HICP: 07 - Transport - ITA - M - Percentage change from previous period - Percentage,Trend,0.1539,0.0586,0.2674,0.08,0.0314,0.25,0.0963,0.1026
+PRICES_CPI_05082020093140547 - HICP: 09 - Recreation and culture - PRT - M - Percentage change from previous period - Percentage,Trend,0.1321,0.0081,0.2023,0.1886,0.0101,0.0075,0.0016,0.0036
+PRICES_CPI_05082020093140547 - HICP: 09 - Recreation and culture - TUR - M - Percentage change on the same period of the previous year - Percentage,Trend,0.0038,0.0056,0.0024,0.0138,0.0146,0.0318,0.0109,0.0025
+"0._No_Standard_Table - Retail Price of Electricity for All Sectors, Middle Atlantic - M - cents per kilowatt hour",Trend,0.0779,0.1448,0.0023,0.0033,0.0024,0.0182,0.0166,0.0054
+"0._No_Standard_Table - Electric power sector net generation from petroleum, California - M - billion kilowatthours",Trend,0.0164,0.0116,0.0123,0.0041,0.0148,0.0212,0.0269,0.037
+0._No_Standard_Table - Commercial Sector Consumption of Wood and Wood Waste Biomass Energy - M - quadrillion btu,Trend,0.3632,0.0682,0.0315,0.0006,0.0003,0.0189,0.0006,0.0032
+"0._No_Standard_Table - Unplanned liquid fuel production disruptions, Australia - M - million barrels per day",Trend,0.0004,0.0589,0.0192,0.0126,0.0592,0.153,0.1681,0.4111
+0._No_Standard_Table - Alaska Crude Oil Production - M - million barrels per day,Trend,0.0036,0.0005,0.0068,0.0082,0.0038,0.0063,0.005,0.004
+4a._U.S._Petroleum_and_Other_Liquids_Supply_Consumption_and_Inventories - Alaska - M - million barrels per day,Trend,0.0036,0.0005,0.0068,0.0082,0.0038,0.0063,0.005,0.004
+7c._U.S._Regional_Retail_Electricity_Prices - Middle Atlantic - M - cents per kilowatthour.3,Trend,0.0779,0.1448,0.0023,0.0033,0.0024,0.0182,0.0166,0.0054
+8a._U.S._Renewable_Energy_Consumption - Wood Biomass - M - quadrillion btu.2,Trend,0.3632,0.0682,0.0315,0.0006,0.0003,0.0189,0.0006,0.0032

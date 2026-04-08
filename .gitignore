@@ -1,0 +1,27 @@
+# API keys and secrets
+.env
+*.env
+
+# Large model weights (archive externally, e.g. Zenodo)
+*.bin
+*.pt
+*.pth
+
+# Large data files exceeding GitHub's 100 MB limit (archive externally, e.g. Zenodo)
+data/raw/numerical/numerical_source.csv
+data/raw/numerical/macroeconomics_preprocessed.csv
+data/raw/numerical/macroeconomics_daily_filtered.csv
+data/processed/numerical/macroeconomics_daily_filtered.csv
+data/processed/numerical/macroeconomics_filtered_stationary.csv
+data/processed/numerical/macroeconomics_filtered_stationary_final.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS metadata
+.DS_Store

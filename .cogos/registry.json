@@ -1,0 +1,13 @@
+{
+  "artifacts": {},
+  "project": {
+    "name": "multimodal-fusion-oil-price-forecasting"
+  },
+  "schema_version": 1,
+  "tiers": {
+    "derived": [
+      "index",
+      "reports"
+    ]
+  }
+}

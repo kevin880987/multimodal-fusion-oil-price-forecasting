@@ -14,4 +14,6 @@ desktop.ini
 
 # Carried by the cloud sync rather than by git, per
 # mind.policy.entries.system_maintenance.cloud_synced_repos.
+runtime/
+remotes.json
 synced-repo.json

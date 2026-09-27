@@ -1,5 +1,10 @@
 {
-  "artifacts": {},
+  "artifacts": {
+    "agent-memory": {
+      "files": 1,
+      "tier": "authored"
+    }
+  },
   "project": {
     "name": "multimodal-fusion-oil-price-forecasting"
   },

@@ -25,3 +25,13 @@ __pycache__/
 
 # macOS metadata
 .DS_Store
+
+# Operating system, sync and editor junk, per
+# mind.policy.entries.system_maintenance.git_repo_hygiene.
+Thumbs.db
+desktop.ini
+.tmp.drivedownload/
+.tmp.driveupload/
+.~lock.*#
+.pytest_cache/
+*.swp

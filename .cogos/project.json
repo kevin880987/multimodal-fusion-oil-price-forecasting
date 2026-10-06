@@ -3,5 +3,7 @@
   "git": "storage",
   "id": "e89ec8f634cb392db4c333cb8593282d",
   "name": "multimodal-fusion-oil-price-forecasting",
-  "schema_version": 1
+  "schema_version": 1,
+  "record_placement": "project",
+  "record_placement_reason": "its records describe work inside this folder, and no session outside it reads them"
 }

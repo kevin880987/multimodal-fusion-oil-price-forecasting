@@ -35,3 +35,7 @@ desktop.ini
 .~lock.*#
 .pytest_cache/
 *.swp
+
+
+# CogOS state stays on this device; only the workshop's own repositories track it.
+/.cogos/
